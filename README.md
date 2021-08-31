@@ -1,2 +1,2 @@
-# BND-Website
-Vi skal lave et fungerende udkast til et website. Forsiden samt undersiden "See Us" skal laves, links i menuen og generelle knapper på sitet, skal have en "mouse-over" effekt ved hover.  Logoet i menuen skal linke til index siden, og menuen skal laves som en sticky menu. Logoet i bunden skal gerne linke op til toppen af siden igen, så man ikke skal scrolle, og de samme regler gælder for både forsiden og undersiden "See Us". Med "fungerende" menes at siden virker i en browser uden væsentlige fejl, og at f.eks. menu virker grafisk med mouse-over på links.
+# Team-Website
+
